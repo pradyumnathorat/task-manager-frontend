@@ -1,0 +1,27 @@
+.task {
+    width: 100%;
+    height: 3.5rem;
+    background-color: rgb(42, 42, 143);
+    border-radius: 0.5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: bold;
+    font-size:1rem;
+    color:white;
+}
+
+.title {
+    width: 40%;
+    font-size: 1.2rem;
+    margin-left: 1rem;
+    color: greenyellow;
+}
+
+.description {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
